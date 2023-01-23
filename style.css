@@ -20,6 +20,10 @@ body
   width:auto;
     font-family:'Merriweather',serif;
 }
+.mountain-img
+{
+  width: auto;
+}
 h1
 {
   font-family:'Sacramento',cursive;
